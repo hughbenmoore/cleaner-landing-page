@@ -1,1 +1,2 @@
 # cleaner-landing-page
+This is a cleaner landing page I am making. This is my second attempt and I am following along Dor's Coding School Youtube tutorial to learn cleaner code and really get the grasp of flexbox.
